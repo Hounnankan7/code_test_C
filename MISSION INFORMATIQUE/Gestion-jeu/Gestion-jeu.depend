@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517355884 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\gestion-jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1517317408 source:c:\users\hp\desktop\dossier projet bataille navale\gestion-jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

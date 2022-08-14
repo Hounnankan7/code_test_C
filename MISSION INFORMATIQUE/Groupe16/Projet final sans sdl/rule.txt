@@ -1,0 +1,29 @@
+Ce jeu se joue a deux ( un joueur contre l'ordinateur dans notre cas)
+sur deux grilles ou sont placees six(06) navires mis en place par chacun des joueurs.
+
+Le but etant de faire couler tous les navires de l'adversaire.
+
+ C'est a la fois un jeu de reflexion et de hasard.
+Pour jouer a la bataille navale,il faut par joueur:
+-	une grille de jeu numerotee de 1 à 10 verticalement et de A a J horizontalement
+-	un porte avion (4 cases)
+-	deux torpilles (3 cases)
+-	trois sous marins (1 case)
+
+Commencer une partie de bataille navale:
+
+ 	Au debut du jeu, chaque joueur place a sa guise tous les bateaux
+ sur sa grille de jeu (d'abord les trois vedettes,ensuite les deux torpilles et enfin le porte avion)
+.Pour placer les navires,le  joueur entre les coordonnées de la case dans laquelle il desire placer le navire.
+ Il lui suffit d'entrer le chiffre suivi de la lettre en majuscule (exemple: 7A).
+ L'ecran  affiche la grille du joueur avec un "+" dans la case correspondant aux navires que le joueur a place.
+ Lorqu'un navire est place, les cases en haut, en bas, a gauche et a droite
+ de lui ne sont plus a meme de recevoir un navire.
+ Quand il s'agit d'une torpille ou d'un porte avion,
+le joueur doit preciser la position dans laquelle
+ il veut placer le navire(il tape  1 s'il veut le placer verticalement(du haut vers le bas) 
+et sur 2 s'il veut le placer horizontalement(de la gauche vers la droite).)
+Lorsque le joueur entre une case qui est hors grille ou a l'extreme et que le placement 
+d'une torpille ou d'un porte avion est impossible,
+il recoit une notification message(vous etes hors grille ou vous ne pouvez pas placer un navire la).
+ Les cases vides de le grille signifient qu'il n'y a pas de navires la.

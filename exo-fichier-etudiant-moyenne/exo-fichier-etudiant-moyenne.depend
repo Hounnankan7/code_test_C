@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1533320831 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\exo-fichier-etudiant-moyenne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"exo_fem.h"
+
+1533320715 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\exo-fichier-etudiant-moyenne\exo_fem.h
+

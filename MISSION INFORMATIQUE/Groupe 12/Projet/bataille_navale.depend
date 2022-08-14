@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1517402458 source:c:\users\ndiack diop\desktop\programmation\programmation c\bataille_navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1517345023 c:\users\ndiack diop\desktop\programmation\programmation c\bataille_navale\biblio.h
+
+1517341251 source:c:\users\ndiack diop\desktop\programmation\programmation c\bataille_navale\codagebateaux.c
+	"codageBateaux.h"
+
+1517344857 c:\users\ndiack diop\desktop\programmation\programmation c\bataille_navale\codagebateaux.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1517346248 source:c:\users\ndiack diop\desktop\programmation\programmation c\bataille_navale\affichage.c
+	"affichage.h"
+	<stdio.h>
+	<stdlib.h>
+
+1517346325 c:\users\ndiack diop\desktop\programmation\programmation c\bataille_navale\affichage.h
+

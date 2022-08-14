@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532458471 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

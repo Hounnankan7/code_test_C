@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534150358 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\jeu devine le nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
