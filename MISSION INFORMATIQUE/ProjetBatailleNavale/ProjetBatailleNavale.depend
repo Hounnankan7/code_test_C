@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1517391660 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\bateaujoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1517391666 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\bateauordi.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1517391722 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\initialise&affiche.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1517400543 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\attaque.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1517391286 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\structure.h
+
+1517391492 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\menu&sauvegarde.h
+
+1517391118 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\initialise&affiche.h
+
+1517391474 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\bateaujoueur.h
+
+1517391466 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\bateauordi.h
+
+1517391484 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\attaque.h
+
+1517392136 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1517401061 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\projetbataillenavale\menu&sauvegarde.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1533064405 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\attaque.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1517391286 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\structure.h
+
+1517391492 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\menu&sauvegarde.h
+
+1517391118 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\initialise&affiche.h
+
+1517391474 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\bateaujoueur.h
+
+1517391466 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\bateauordi.h
+
+1517391484 c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\attaque.h
+
+1533064397 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\bateaujoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1533064411 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\bateauordi.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1533064418 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\initialise&affiche.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1533065038 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
+1533064431 source:c:\users\vianneyvissoh\documents\document_de_vianney_2ème_année\cours informatique\code c\mission informatique\projetbataillenavale\menu&sauvegarde.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structure.h"
+	"Menu&Sauvegarde.h"
+	"Initialise&Affiche.h"
+	"BateauJoueur.h"
+	"BateauOrdi.h"
+	"Attaque.h"
+
